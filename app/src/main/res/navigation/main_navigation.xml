@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/detailUser">
+
+
+    <fragment
+        android:id="@+id/userFavoritesFragment"
+        android:name="id.gamedest.githubusersubmission2.fragment.UserFavoritesFragment"
+        android:label="fragment_user_favorites"
+        tools:layout="@layout/fragment_user_favorites" >
+        <action
+            android:id="@+id/action_userFavoritesFragment_to_detailUser"
+            app:destination="@id/detailUser"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <activity
+        android:id="@+id/detailUser"
+        android:name="id.gamedest.githubusersubmission2.user.DetailUser"
+        android:label="DetailUser" />
+
+</navigation>

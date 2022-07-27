@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.172" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.172" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.172" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/drawable/ic_refresh.xml" value="0.172" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/activity_detail_user.xml" value="0.33" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/activity_favorites_main.xml" value="0.33" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/activity_main.xml" value="0.19293478260869565" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/activity_setting.xml" value="0.19293478260869565" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/activity_user_detail.xml" value="0.22" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/favorites_stack_widget.xml" value="0.19293478260869565" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/fragment_detail_user.xml" value="0.25" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/fragment_user_favorites.xml" value="0.33" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/gh_user.xml" value="0.33" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/item_user_favorite.xml" value="0.33" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/layout/widget_item.xml" value="0.2" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/menu/menu_favorite.xml" value="0.27291666666666664" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/menu/menu_settings.xml" value="0.27291666666666664" />
+        <entry key="..\:/android/projek/AndroidStudioProjects/revisi1/2/3/4/New folder/GithubUserSubmission3/app/src/main/res/xml/favorites_stack_widget_info.xml" value="0.19293478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

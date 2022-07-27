@@ -1,0 +1,15 @@
+package id.gamedest.githubusersubmission2.data
+
+import android.os.Parcelable
+import kotlinx.android.parcel.Parcelize
+
+@Parcelize
+data class UserFavorite(
+    val id: Int = 0,
+    val avatar: String? = null,
+    val name: String? = null,
+    val username: String? = null,
+    val type: String? = null,
+    val company: String? = null,
+    val location: String? = null
+) : Parcelable

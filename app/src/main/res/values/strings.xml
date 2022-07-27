@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Github User Submission2</string>
+
+    <string name="gh_usernmae">Username GitHub</string>
+    <string name="gh_name">Nama User</string>
+    <string name="gh_company">Nama Perusahaan</string>
+    <string name="gh_location">Alamat User</string>
+    <string name="gh_followers">Followers</string>
+    <string name="gh_following">Following</string>
+    <string name="gh_repository">Repository</string>
+    <string name="gh_number">0</string>
+    <string name="splash_screen">GITHUB USER</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_status_info">Tidak ada Pengguna yang ditambahkan ke Favorit</string>
+    <string name="load_database">Memuat Data…</string>
+    <string name="app_title_user_favorites">Pengguna Favorit</string>
+    <string name="favored_user">Pengguna difavoritkan</string>
+    <string name="insert_github_user">ditambahkan ke favorit</string>
+    <string name="remove_github_user">deleted from favorite</string>
+    <string name="appwidget_text">Favorites Github User Profile Photo</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_data">No Favorite User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
